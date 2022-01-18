@@ -1,6 +1,6 @@
-## Aplicação CRUD Java - Contatos
+## Aplicação CRUD com Java
 
-#### Manipulação dos seguintes dados:
+#### Manipulação de contatos através dos seguintes dados:
 
 * Id
 * Nome
@@ -9,7 +9,7 @@
 
 
 
-#### Tecnologias utilizadas:
+#### :woman_technologist: Tecnologias e linguagens utilizadas:
 
 :coffee: Java
 
