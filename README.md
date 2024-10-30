@@ -1,4 +1,4 @@
-## Aplicação CRUD com Java
+## Aplicação CRUD usando Java
 
 #### Manipulação de contatos através dos seguintes dados:
 
